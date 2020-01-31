@@ -1,0 +1,186 @@
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+.wrapper { 
+    width: 1170px;
+    margin: auto;
+    }
+
+header {
+    background: url("Source/construction%203.jpeg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.nav-area {
+    float: center;
+    list-style: none;
+    margin-top: 0px;
+    margin-left: 720px;
+ 
+}
+
+.nav-area li{
+    display: inline-block;
+    
+}
+
+.nav-area li a{
+    color:#FFF;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: bold;
+    font-size: 20px;
+}
+
+.nav-area li a:hover {
+    background: #ff914d;
+    color: #FFF;
+}
+
+.logo img{
+    width: 200px;
+    float: left;
+    height: auto;
+    margin-top: -45px;
+    
+}
+
+.Texte-accroche {
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    margin: 20% 30%;
+    margin-top: 100px; 
+    text-align: center;
+
+}
+
+.Texte-accroche h2 {
+    text-align: center;
+    color:#ff914d;
+    text-transform: uppercase;
+    font-size: 60px;
+    font-family: bold;
+    
+}
+
+.Texte-accroche a{
+    border: 1px solid #ff914d;
+    padding: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    display: inline-block;
+    color: #ff914d;
+     
+    
+}
+
+
+
+.paragraphe {
+    margin-top: 350px;
+    text-align: center;
+    color: #FFF;
+    font-family: bold;
+    border: 3px solid #FFF;
+    padding: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+.body {
+    margin: 0;
+    padding: 0;
+     
+}
+
+
+
+.boites .box1{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin: 40px auto;
+    margin-right: 500px;
+    background: #FFF;
+    
+}
+
+.boites .box1 img{
+    width: 200px;
+    height: 200px;}
+
+
+
+.boites .box1 p{
+    font-size: 30px;
+    color: #f15b24;
+    text-align: center;
+    
+}
+
+.boites .box1 p2 {
+    font-size: 16px;
+    color: #333;
+    text-align: center;
+}
+
+.boites .box2{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin: 40px auto;
+    margin-right: 800px;
+    margin-top: -240px;
+    background: #FFF;
+}
+
+.boites .box2 p {
+    font-size: 30px;
+    color: #f15b24;
+    text-align: center;
+}
+
+.boites .box2 p2 {
+    font-size: 16px;
+    color: #333;
+    text-align: center;
+}
+
+.boites .box3{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin: 40px auto;
+    margin-right: 200px;
+    margin-top: -240px;
+    background: #FFF;
+    text-transform: none;
+}
+
+.boites .box3 p {
+    font-size: 30px;
+    color: #f15b24;
+    text-align: center;
+}
+.boites .box3 p2 {
+    font-size: 16px;
+    color: #333;
+    text-align: center;
+}
+
+.experience p {
+    font-size: 28px;
+    color: #FFF;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 70px;
+}
